@@ -1,0 +1,25 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "a backend logic for video sharing platform",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "homepage": "https://github.com/kuldeepc18/Youtube-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/kuldeepc18/Youtube-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeepc18/Youtube-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Kuldeep Choudhary",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
